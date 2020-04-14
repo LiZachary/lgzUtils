@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主题风格颜色 -->
+    <color name="colorPrimary">#3195fa</color>
+    <color name="colorPrimaryDark">#007ad6</color>
+    <color name="colorAccent">#00c2de</color>
+
+    <!--    标准色-->
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#BBBBBB</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0099FF</color>
+    <color name="black">#000000</color>
+    <color name="orange">#FFA82E</color>
+    <color name="yellow">#ff8000</color>
+
+    <!--    页面配置-->
+    <color name="base_bg">#eae9e9</color>
+    <color name="text_black">#3a3a3a</color>
+
+</resources>

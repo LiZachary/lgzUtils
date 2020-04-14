@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lgzUtil</string>
+
+    <string name="loading">加载中…</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="prompt">提示</string>
+</resources>
