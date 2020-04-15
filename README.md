@@ -3,4 +3,4 @@
 使用方法
 
 导入
-implementation 'top.zibin:Luban:1.1.8'
+implementation 'com.zachary:lgzutils:1.0.1'
